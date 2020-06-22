@@ -1,4 +1,4 @@
 # World_Weather_Analysis
 
-# Outcomes based on Goals
-![vacation](WeatherPy%20vacation%20map.png)
+# WeatherPy_Vacation_Map
+![vacation](data/WeatherPy%20vacation%20map.png)
